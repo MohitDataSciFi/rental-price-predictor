@@ -844,3 +844,5 @@ MIT License
 # Phase 1: Build Rental Price Prediction Pipeline - iteration 5
 
 # Phase 1: Build Rental Price Prediction Pipeline - iteration 6
+
+# Phase 1: Build Rental Price Prediction Pipeline - iteration 7
